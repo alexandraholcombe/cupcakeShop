@@ -7,3 +7,12 @@ div.banner{
 li {
   display:inline;
 }
+
+h1, h2{
+  text-align: center;
+}
+
+.intro {
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+}
