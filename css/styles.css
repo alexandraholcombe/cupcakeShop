@@ -72,3 +72,33 @@ p {
   margin: 0 auto;
   padding: 20px 0;
 }
+
+@media screen and (max-width: 475px) {
+  h1, h2, .intro, p {
+    width: 95%;
+  }
+
+  .nav li{
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .nav {
+    margin-bottom: 0;
+  }
+
+  div.banner {
+    height:250px;
+  }
+
+  .intro{
+    font-size:18px;
+  }
+
+  .event-div {
+    width: 100%;
+  }
+
+
+
+}
