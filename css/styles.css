@@ -105,6 +105,9 @@ p {
     width: 100%;
   }
 
-
+  h1 {
+    line-height: 1.2em;
+    margin: 25px auto 40px;
+  }
 
 }
